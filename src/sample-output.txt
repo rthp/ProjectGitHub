@@ -1,0 +1,168 @@
+[
+  {
+    "id": 55556888,
+    "number": 5,
+    "title": "Issue 3",
+    "user": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "name": "bug",
+        "color": "fc2929"
+      },
+      {
+        "name": "learn-issue",
+        "color": "5319e7"
+      },
+      {
+        "name": "question",
+        "color": "cc317c"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2015-01-27T00:07:42Z",
+    "updated_at": "2015-01-27T00:08:07Z",
+    "closed_at": null,
+    "body": "Okay this is my 3rd issue. I will add image.\r\n![20130831_152329](https://cloud.githubusercontent.com/assets/4101110/5910986/80c5da56-a58e-11e4-9a57-e591527be87e.jpg)\r\n:F Family Time :yum:  :heart_eyes:  "
+  },
+  {
+    "id": 55556472,
+    "number": 4,
+    "title": "Issue2",
+    "user": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "name": "hw2-task2-label",
+        "color": "fbca04"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": null,
+    "milestone": {
+      "id": 952354,
+      "number": 1,
+      "title": "hw2",
+      "description": null,
+      "creator": {
+        "login": "rthp",
+        "id": 4101110,
+        "type": "User",
+        "site_admin": false
+      },
+      "open_issues": 2,
+      "closed_issues": 1,
+      "state": "open",
+      "created_at": "2015-01-26T23:58:51Z",
+      "updated_at": "2015-01-27T00:11:40Z",
+      "due_on": null,
+      "closed_at": null
+    },
+    "comments": 1,
+    "created_at": "2015-01-27T00:02:50Z",
+    "updated_at": "2015-01-27T00:05:50Z",
+    "closed_at": null,
+    "body": "This is my second issue. I am adding this to body section"
+  },
+  {
+    "id": 55556038,
+    "number": 3,
+    "title": "Learn GitHub API",
+    "user": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+      {
+        "name": "enhancement",
+        "color": "84b6eb"
+      },
+      {
+        "name": "help wanted",
+        "color": "159818"
+      }
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": {
+      "id": 952354,
+      "number": 1,
+      "title": "hw2",
+      "description": null,
+      "creator": {
+        "login": "rthp",
+        "id": 4101110,
+        "type": "User",
+        "site_admin": false
+      },
+      "open_issues": 2,
+      "closed_issues": 1,
+      "state": "open",
+      "created_at": "2015-01-26T23:58:51Z",
+      "updated_at": "2015-01-27T00:11:40Z",
+      "due_on": null,
+      "closed_at": null
+    },
+    "comments": 1,
+    "created_at": "2015-01-26T23:58:19Z",
+    "updated_at": "2015-01-27T00:02:10Z",
+    "closed_at": null,
+    "body": "I am trying to understand how GitHub API works taking example of issues."
+  },
+  {
+    "id": 55424304,
+    "number": 2,
+    "title": "Hw1 done",
+    "user": {
+      "login": "rthp",
+      "id": 4101110,
+      "type": "User",
+      "site_admin": false
+    },
+    "labels": [
+
+    ],
+    "state": "open",
+    "locked": false,
+    "assignee": {
+      "login": "gingeraltoids",
+      "id": 1882863,
+      "type": "User",
+      "site_admin": false
+    },
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2015-01-25T18:29:03Z",
+    "updated_at": "2015-01-25T19:34:20Z",
+    "closed_at": null,
+    "pull_request": {
+    },
+    "body": "Homework 1 Task 3rd"
+  }
+]
