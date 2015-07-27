@@ -22,15 +22,6 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 
-/**
- * A quick and dirty prototype of a GET request for GitHub issues. Based on
- * Apache HttpClient sample class ClientPreemptiveBasicAuthentication.java. You
- * will obviously need to improve this messy code to properly complete Lab #4.
- * There is a main() method available for you to run this prototype. You're
- * welcome to change the code to use a different authentication approach as
- * well. Note the TODOs in the code. Be sure that httpcore & httpclient jars are
- * on the classpath.
- */
 public class GitHubRestClient {
 
     private static final String IO_ERROR = "IO Error";
